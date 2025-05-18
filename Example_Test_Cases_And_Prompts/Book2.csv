@@ -1,0 +1,3 @@
+Test Case ID,Description,Expected Result
+TC_INV_001,Verify that each product listed on the inventory page displays both its name and image properly.,All products on the inventory page should display a visible product name and a corresponding image without any missing elements or broken links.
+TC_INV_002,"Check the functionality of the sorting dropdown by selecting options like ""Name (A to Z)"", ""Name (Z to A)"", ""Price (low to high)"", and ""Price (high to low)"".","The list of products should rearrange correctly based on the selected sort option, ensuring accurate alphabetical or price-based sorting."

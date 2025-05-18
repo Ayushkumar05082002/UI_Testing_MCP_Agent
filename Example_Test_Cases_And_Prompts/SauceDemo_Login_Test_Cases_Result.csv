@@ -1,0 +1,8 @@
+Test Case ID,Requirement ID,Description,Expected Result,Actual Result,Pass/Fail,Comments
+TC_SD_001,REQ_SD_001,Login with valid username 'standard_user' and password 'secret_sauce',User is successfully logged in and redirected to the inventory page,Successfully logged in and redirected to inventory page,Pass,
+TC_SD_002,REQ_SD_001,Login with invalid username 'invalid_user' and valid password 'secret_sauce',Error message displayed: 'Username and password do not match any user in this service',Error message displayed: 'Username and password do not match any user in this service',Pass,
+TC_SD_003,REQ_SD_001,Login with valid username 'standard_user' and invalid password 'wrong_password',Error message displayed: 'Username and password do not match any user in this service',Error message displayed: 'Username and password do not match any user in this service',Pass,
+TC_SD_004,REQ_SD_001,Login with blank username and valid password 'secret_sauce',Error message displayed: 'Username is required',Error message displayed: 'Username is required',Pass,
+TC_SD_005,REQ_SD_001,Login with valid username 'standard_user' and blank password,Error message displayed: 'Password is required',Error message displayed: 'Password is required',Pass,
+TC_SD_006,REQ_SD_001,Login with both username and password blank,Error message displayed: 'Username is required',Error message displayed: 'Username is required',Pass,
+TC_SD_007,REQ_SD_001,Login with locked out user 'locked_out_user' and password 'secret_sauce',"Error message displayed: 'Sorry, this user has been locked out.'","Error message displayed: 'Sorry, this user has been locked out.'",Pass,
