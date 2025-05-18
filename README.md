@@ -9,6 +9,10 @@ This README will guide you through setting up and running automated UI tests usi
   <img src="https://github.com/Ayushkumar05082002/UI_Testing_MCP_Agent/blob/main/Screenshot%20(1121).png?raw=true" alt="MCP Logo" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Ayushkumar05082002/UI_Testing_MCP_Agent/blob/main/Screenshot%20(1121).png?raw=true" alt="MCP Logo" />
+</p>
+
 ## Filesystem MCP Server
 The Filesystem MCP Server is a Go server that implements the Model Context Protocol (MCP) for performing various filesystem operations such as reading, writing, and managing files and directories.
 
