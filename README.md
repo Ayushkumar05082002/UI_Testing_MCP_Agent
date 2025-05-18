@@ -2,7 +2,7 @@
 This README will guide you through setting up and running automated UI tests using Puppeteer with Claude's filesystem capabilities to read test cases from Excel files.
 
 <p align="center">
-  <img src="assets/light.png" alt="MCP Logo" />
+  <img src="https://github.com/Ayushkumar05082002/UI_Testing_MCP_Agent/blob/main/Screenshot%20(1120).png?raw=true" alt="MCP Logo" />
 </p>
 
 ## Filesystem MCP Server
