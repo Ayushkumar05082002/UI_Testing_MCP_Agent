@@ -10,7 +10,7 @@ This README will guide you through setting up and running automated UI tests usi
 </p>
 
 <p align="center">
-  <img src="https://github.com/Ayushkumar05082002/UI_Testing_MCP_Agent/blob/main/Screenshot%20(1121).png?raw=true" alt="MCP Logo" />
+  <img src="https://github.com/Ayushkumar05082002/UI_Testing_MCP_Agent/blob/main/Screenshot%20(1122).png?raw=true" alt="MCP Logo" />
 </p>
 
 ## Filesystem MCP Server
